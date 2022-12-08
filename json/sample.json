@@ -1,19 +1,14 @@
-{
-    "data": [
-        {
-            "no": "1",
-            "date": "2020-01-28T00:00",
-            "place": "japan",
-            "age": "22",
-            "sex": "female"
-        },
-        {
-            "no": "2",
-            "date": "2020-02-14T00:00",
-            "place": "australia",
-            "age": "50",
-            "sex": "male"
-        }
-    ],
-    "last_update": "2020-03-14T23:14:01.849130+09:00"
-}
+[
+	{
+		"category": "Latest",
+		"imageUrl": "https://howtodoandroid.com/images/coco.jpg",
+		"name": "Coco",
+		"desc": "Coco is a 2017 American 3D computer-animated musical fantasy adventure film produced by Pixar"
+	},
+	{
+		"category": "Latest",
+		"imageUrl": "https://howtodoandroid.com/images/terminator_2.jpg",
+		"name": "Terminator 2: Judgment Day 3D",
+		"desc": "Similar to Cameron's Titanic 3D, Lightstorm Entertainment oversaw the work on the 3D version of Terminator 2, which took nearly a year to finish."
+	}
+]
